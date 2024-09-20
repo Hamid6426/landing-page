@@ -1,10 +1,10 @@
-<img src='./assets/landing-page.png'>
+<img src='./assets/landing-page.png' style="border-radiius:16px;" >
 
 # TITLE
 
-## Landing Page
+<b>Landing Page</b>
 
 # DESCRIPTION
 
-#### A landing page website with sign-up, congrats-page, sign-in page, and forgot- password page developed with HTML, CSS & Javascript without using any libraries.
+A landing page website with sign-up, congrats-page, sign-in page, and forgot- password page developed with HTML, CSS & Javascript without using any libraries.
 
