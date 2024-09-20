@@ -1,0 +1,96 @@
+# DOM
+
+- root (document)
+- html
+
+- head
+  - title
+  - meta
+  - link
+
+- body
+  - header
+    - div (header-wrapper)
+      - div (logo-wrapper)
+      - div (buttons-wrapper)
+        - a > button (minor-button)
+        - div > button > img (menu)
+      - div (nav-wrapper)
+
+  - main
+    - section
+      - div (hero-text)
+        - h1
+        - p
+      - div (hero-image)
+        - img
+      - div (hero-button)
+        - a > button (major-button)
+    - section
+      - h2
+      - p
+      - div (flex-container)
+        - div (service-box)
+          - img
+          - h2
+          - p
+          - a
+        - div (flex-box)
+          - img
+          - h2
+          - p
+          - a
+        - div (flex-box)
+          - img
+          - h2
+          - p
+          - a
+      - div (hero-button)
+        - a > button (major-button)
+    - section
+      - h2
+      - div (flex-container)
+        - div (comment-box)
+          - img (commentor)
+          - h3 (name)
+          - h4 (comoany)
+          - p
+        - div (comment-box)
+          - img (commentor)
+          - h3 (name)
+          - h4 (comoany)
+          - p
+        - div (comment-box)
+          - img (commentor)
+          - h3 (name)
+          - h4 (comoany)
+          - p
+      - div (hero-button)
+        - a > button (major-button)
+  
+  - footer
+    - div (grid/flex)
+      - div (logo-wrapper)
+        - img (horizental-logo)
+      - div (text)
+        - p
+    - div (grid)
+      - ul
+        - li
+        - li
+        - li
+        - li
+    - div (grid)
+      - ul
+        - li
+        - li
+        - li
+        - li
+    - div (grid)
+      - ul
+        - li
+        - li
+        - li
+        - li
+  - div (copyright-container)
+    - p
